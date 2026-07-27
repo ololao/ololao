@@ -204,20 +204,3 @@
 - **GitHub Actions** — CI/CD pipelines, workflow YAML, triggers, jobs
 
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=doaks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doaks&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-
-*Open to backend roles and interesting projects*
-
-</div>

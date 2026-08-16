@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:000000,50:1F2937,100:111111&text=doaks&fontSize=64&fontColor=38BDF8&fontAlignY=34&stroke=38BDF8&strokeWidth=0.4" width="100%" alt="doaks — python / backend / postgresql" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=880&height=46&lines=Backend+developer%3A+APIs+that+don't+fall+over;Python+%C2%B7+asyncio+%C2%B7+FastAPI+%C2%B7+PostgreSQL;SQLAlchemy+2.0+%C2%B7+Redis+%C2%B7+RabbitMQ;Docker+%C2%B7+Nginx+%C2%B7+Linux+%C2%B7+GitHub+Actions;%2F%2F+TODO%3A" alt="what i do" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=880&height=46&lines=Backend+developer%3A+APIs+that+don't+fall+over;Python+%C2%B7+asyncio+%C2%B7+FastAPI+%C2%B7+PostgreSQL;SQLAlchemy+2.0+%C2%B7+Redis+%C2%B7+RabbitMQ;Docker+%C2%B7+Nginx+%C2%B7+Linux+%C2%B7+GitHub+Actions" alt="what i do" />
 
 <p>
   <a href="https://github.com/doaks?tab=repositories"><img src="https://img.shields.io/badge/repositories-111111?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="repositories" /></a>

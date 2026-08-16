@@ -1,206 +1,78 @@
 <div align="center">
 
-```
-██████╗ ██╗      ██████╗ ██╗      █████╗  ██████╗ 
-██╔═══██╗██║     ██╔═══██╗██║     ██╔══██╗██╔═══██╗
-██║   ██║██║     ██║   ██║██║     ███████║██║   ██║
-██║   ██║██║     ██║   ██║██║     ██╔══██╗██║   ██║
-╚██████╔╝███████╗╚██████╔╝███████╗██║  ██║╚██████╔╝
- ╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:000000,50:1F2937,100:111111&text=doaks&fontSize=64&fontColor=38BDF8&fontAlignY=34&stroke=38BDF8&strokeWidth=0.4" width="100%" alt="doaks — python / backend / postgresql" />
 
-### Backend Developer · Python · FastAPI · PostgreSQL
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=880&height=46&lines=Backend+developer%3A+APIs+that+don't+fall+over;Python+%C2%B7+asyncio+%C2%B7+FastAPI+%C2%B7+PostgreSQL;SQLAlchemy+2.0+%C2%B7+Redis+%C2%B7+RabbitMQ;Docker+%C2%B7+Nginx+%C2%B7+Linux+%C2%B7+GitHub+Actions;%2F%2F+TODO%3A" alt="what i do" />
 
-*Building robust APIs and reliable backend architectures*
+<p>
+  <a href="https://github.com/doaks?tab=repositories"><img src="https://img.shields.io/badge/repositories-111111?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="repositories" /></a>
+  <a href="https://github.com/doaks?tab=followers"><img src="https://img.shields.io/github/followers/doaks?style=for-the-badge&label=followers&labelColor=111111&color=111111&logo=github&logoColor=38BDF8" alt="followers" /></a>
+  <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Telegram" /></a>
+</p>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,100:38BDF8" width="90%" alt="" />
 
----
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/asyncio-111111?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Pydantic%20v2-111111?style=for-the-badge&logo=pydantic&logoColor=E92063" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/SQLAlchemy%202.0-111111?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=FF4438" />
+  <img src="https://img.shields.io/badge/RabbitMQ-111111?style=for-the-badge&logo=rabbitmq&logoColor=F6608F" />
+  <img src="https://img.shields.io/badge/Pytest-111111?style=for-the-badge&logo=pytest&logoColor=0A9EDC" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Nginx-111111?style=for-the-badge&logo=nginx&logoColor=009639" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/uv-111111?style=for-the-badge&logo=uv&logoColor=DE5FE9" />
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/JWT%20%2F%20OAuth%202.0-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=D63AFF" />
+  <img src="https://img.shields.io/badge/REST%20API-111111?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539" />
+</p>
+
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,100:38BDF8" width="90%" alt="" />
+
+## My stack
+
+| | Технологии |
+|:---|:---|
+| **Язык** | Python · asyncio · typing |
+| **Фреймворк** | FastAPI · Pydantic v2 · JWT |
+| **Данные** | PostgreSQL · SQLAlchemy 2.0 · Atlas |
+| **Кэш / очереди** | Redis · RabbitMQ (aio-pika) |
+| **Инфраструктура** | Docker · Nginx · Linux |
+| **Инструменты** | Git · GitHub Actions · pytest · uv |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,100:38BDF8" width="90%" alt="" />
+
+## Details
 
 </div>
 
----
-
-## ⚡ What I Do
-
-- **Design and build REST APIs** with **Python** and **FastAPI** — from routing and dependency injection to layered architecture and error handling
-- **Model and optimize relational databases** — **PostgreSQL** with deep knowledge of transactions, window functions, CTEs, indexes, and complex JOINs
-- **ORM mastery** via **SQLAlchemy 2.0** — async sessions, relationships, bulk operations, hybrid properties, mixins, soft deletes
-- **Cache and queue** with **Redis** — caching patterns, rate limiting, session management, API response caching
-- **Containerize and ship** with **Docker** — optimized multi-stage builds, `uv`-powered images, Docker Compose stacks
-- **Deploy** behind **Nginx** — reverse proxy, WebSocket support, load balancing, HTTPS, security hardening
-- **Write async Python** from the ground up — `asyncio`, `Task`, `TaskGroup`, `gather`, `uvloop`, async context managers and generators
-
----
-
-## 📚 Knowledge Base
-
-<details>
-<summary><b>🐍 Python Core</b></summary>
-<br>
-
-**Fundamentals & Standard Library**
-- `datetime`, `os`, `sys`, `json`, `csv`, `pathlib`, `shutil`, `zipfile`
-- `subprocess`, `argparse`, `re` (regular expressions)
-
-**Advanced Python**
-- Iterators, generators, `send()`/`throw()`, generator-based coroutines
-- Decorators, closures, `nonlocal`, `functools` (`cache`, `lru_cache`, `partial`, `reduce`)
-- `itertools` — `chain`, `groupby`, `islice`, `combinations`, `permutations`, `tee`, `zip_longest`
-- `collections` — `namedtuple`, `defaultdict`, `OrderedDict`, `Counter`, `deque`
-- Walrus operator `:=`, f-strings advanced formatting, `match/case`
-- Recursion, heaps (`heapq`), stacks and queues
-
-**OOP**
-- Magic/dunder methods — full spectrum: `__new__`, `__del__`, `__repr__`, `__eq__`, `__hash__`, `__call__`, `__slots__`, and more
-- Properties, `@classmethod`, `@staticmethod`, `@singledispatchmethod`
-- Descriptors, context managers (`__enter__`/`__exit__`, `@contextmanager`, `contextlib`)
-- Inheritance, `super()`, MRO, multiple inheritance
-- Abstract classes (`abc`), polymorphism, composition, mixins
-- `dataclasses`, `Enum`, bit operators
-- Sequence, iterator, and context manager protocols
-
-**Type System**
-- Full type annotation syntax, `TypeVar`, `Generic`, `Protocol`, `Annotated`, `Literal`
-
-**Ecosystem & Tooling**
-- Virtual environments: `venv`, `poetry`, `uv`
-- Module system, import internals, `__init__.py`
-- Environment variables, `python-dotenv`
-
-</details>
-
-<details>
-<summary><b>⚡ FastAPI & Backend</b></summary>
-<br>
-
-**FastAPI**
-- Application architecture — layered structure (routers → services → repositories)
-- Dependency injection system, `Depends`, scoped dependencies
-- `APIRouter`, tags, response models, status codes
-- Pydantic v2 — model design, validators, `model_config`, `Settings`
-- CORS, Middleware, `lifespan` events
-- Pagination, search, media file management
-- `loguru` logging
-- `gunicorn` + `uvicorn` production setup
-
-**Authentication & Security**
-- JWT access/refresh token flow
-- Cookie-based sessions
-- Authorization middleware
-
-**Testing**
-- `pytest` — fixtures, parametrize, conftest
-- API testing with `httpx` / `TestClient`
-
-**HTTP Protocol**
-- Methods, status codes, headers, OPTIONS
-- RESTful API design principles
-- Request/response lifecycle
-
-**Async**
-- `asyncio` from scratch — event loop, coroutines, tasks, futures
-- `Task`, `TaskGroup`, `gather`, `wait`, `as_completed`
-- `asyncio.timeout`, `wait_for`
-- `uvloop`, eager task factory
-- Async context managers, async generators
-- `contextvars`, `to_thread`, thread pool executors
-- Sockets, `selectors`, callbacks, streams
-
-**Integrations**
-- YooKassa payment API
-
-</details>
-
-<details>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-
-**PostgreSQL**
-- Data types, constraints, `NULL` semantics
-- Full CRUD, `WHERE`, `ORDER BY`, `LIMIT/OFFSET`, `LIKE/ILIKE`, `IN`, `BETWEEN`
-- JOINs — `INNER`, `LEFT`, `RIGHT`, `FULL`, `CROSS`
-- Aggregate functions, `GROUP BY`, `HAVING`, `FILTER`
-- Subqueries, CTEs, recursive CTEs
-- Window functions — `ROW_NUMBER`, `RANK`, `LAG/LEAD`, `PARTITION BY`
-- Transactions — isolation levels, `SAVEPOINT`, `SELECT FOR UPDATE/SHARE`
-- Indexes — B-tree, partial, covering, `EXPLAIN ANALYZE`
-- `ALTER TABLE`, `CAST`, `UPSERT`, `RETURNING`, `DISTINCT ON`
-
-**SQLAlchemy 2.0**
-- Engine, `connect()`, sync and async sessions
-- Table definitions via ORM classes (`DeclarativeBase`)
-- `relationship()` — `lazy`, `selectinload`, `joinedload`, `back_populates`
-- Full query syntax — `select`, `insert`, `update`, `delete`
-- `__table_args__`, `hybrid_property`, event system
-- Bulk operations, soft delete pattern, mixins
-- Pydantic ↔ SQLAlchemy integration (response models)
-
-**Alembic**
-- Migration generation and management
-
-**Redis**
-- All data types — strings, hashes, lists, sets, sorted sets, streams
-- Transactions (`MULTI/EXEC`), `WATCH`
-- Caching patterns — cache-aside, write-through, cache invalidation
-- API response caching with FastAPI
-- Rate limiting, session management, counters
-- Redis testing strategies
-
-</details>
-
-<details>
-<summary><b>🐋 DevOps & Infrastructure</b></summary>
-<br>
-
-**Docker**
-- Image building, layer optimization, `.dockerignore`
-- Multi-stage builds, `uv`-based modern Python images
-- Docker Compose — services, volumes, networks, `depends_on`, health checks
-- Container networking
-
-**Nginx**
-- Configuration structure, `server`/`location` blocks
-- Static files, `try_files`, `proxy_pass`
-- Reverse proxy for FastAPI/uvicorn
-- WebSocket proxying, timeouts, custom headers
-- Load balancing (`upstream`)
-- HTTPS/TLS, security headers, performance tuning
-- Nginx inside Docker
-
-**Linux**
-- Shell navigation, permissions (`chmod`, `chown`, `umask`), groups
-- Process management (`ps`, `kill`, `jobs`, `nohup`)
-- Redirections, pipes, filters (`grep`, `awk`, `sed`, `cut`, `sort`, `uniq`)
-- Package management (`apt`)
-- SSH — key setup, server configuration, `sftp`, `ftp`
-- Networking (`ip`, `ss`, `netstat`, `curl`, `wget`)
-- File search (`find`, `locate`), environment variables
-- `vim`/`vi` editing
-
-</details>
-
-<details>
-<summary><b>🌿 Git & Workflow</b></summary>
-<br>
-
-- Core Git — staging, commits, history, refs
-- Branching strategies, Pull Requests
-- `merge` vs `rebase` — when and why
-- Conflict resolution
-- `git stash`, `cherry-pick`, tags
-- SSH key setup for GitHub
-- **GitHub Actions** — CI/CD pipelines, workflow YAML, triggers, jobs
-
-</details>
+|  Тема | Изученный материал |
+|:---|:---|
+| **Python** | ядро языка и модель памяти · stdlib (`datetime`, `pathlib`, `re`, `subprocess`, `json`, `zipfile`) · ООП: дуnder-методы, дескрипторы, MRO, `abc`, миксины, `dataclasses` · итераторы и генераторы (`send` / `throw`) · декораторы и замыкания · `functools` (`lru_cache`, `partial`) · `itertools` · `collections` · `match/case`, walrus · типизация: `TypeVar`, `Protocol`, `Annotated` · venv / poetry / uv, механика импортов |
+| **Асинхронность** | event loop изнутри · корутины, `Task`, `Future` · `TaskGroup`, `gather`, `wait`, `as_completed` · таймауты (`wait_for`, `timeout`) · `uvloop`, eager task factory · async context managers и генераторы · `contextvars` · `to_thread` и пулы потоков · сокеты, `selectors`, callbacks, streams · `asyncio.Queue` / `Lock` |
+| **FastAPI** | слоистая архитектура (routers → services → repositories) · dependency injection · `APIRouter` · Pydantic v2: валидаторы, `model_config`, Settings · аутентификация, JWT access/refresh, cookie-сессии · CORS, middleware, `lifespan` · обработка ошибок · пагинация и поиск · медиафайлы · WebSockets · `loguru` · gunicorn + uvicorn · интеграция YooKassa |
+| **Безопасность** | OAuth 2.0 и OpenID Connect · JWT + refresh-токены · стратегии хранения сессий · OWASP: топ уязвимостей и защита · authorization middleware |
+| **PostgreSQL** | типы данных и ограничения · полный CRUD, `LIKE`/`ILIKE`, `IN`, `BETWEEN` · JOIN всех видов · агрегаты, `GROUP BY` / `HAVING` / `FILTER` · подзапросы, CTE и рекурсивные CTE · оконные функции (`ROW_NUMBER`, `RANK`, `LAG`/`LEAD`) · транзакции: уровни изоляции, `SAVEPOINT`, `SELECT FOR UPDATE` · индексы: B-tree, partial, covering · `EXPLAIN ANALYZE` · `UPSERT`, `RETURNING`, `DISTINCT ON`, `CAST` |
+| **SQLAlchemy 2.0** | Engine и async-сессии · `DeclarativeBase` · `relationship()`: `selectinload`, `joinedload`, `back_populates` · полный query syntax (select/insert/update/delete) · `__table_args__` · `hybrid_property` · система событий · bulk-операции · soft delete и миксины · интеграция с Pydantic · миграции Atlas |
+| **Redis** | строки, хэши, списки, множества, sorted sets, streams · транзакции `MULTI/EXEC`, `WATCH` · паттерны cache-aside, write-through, инвалидация · кэширование ответов API · rate limiting, сессии, счётчики · стратегии тестирования Redis |
+| **RabbitMQ** | базовая модель очередей · распределение задач между consumer'ами · временные очереди · dead letter exchanges · TTL сообщений · aio-pika: надёжная доставка, персистентность сообщений на диск |
+| **Тестирование** | pytest: фикстуры, `parametrize`, `conftest`, маркеры · тестовая БД vs моки · `dependency_overrides` · async-тесты · FastAPI + httpx · testcontainers · faker · coverage (`cov`) |
+| **Docker / Nginx** | Dockerfile и слои, `.dockerignore` · multi-stage builds + uv · compose: volumes, networks, health checks · сети контейнеров · Nginx: `location`, статика, `try_files` · reverse proxy для FastAPI · WebSockets, таймауты · балансировка `upstream` · HTTPS/TLS, security headers · Nginx в Docker |
+| **Linux / Git** | shell и навигация · права (`chmod`, `chown`, `umask`) · процессы (`ps`, `kill`, `nohup`) · перенаправления и фильтры (`grep`, `awk`, `sed`) · SSH, sftp · сеть (`ip`, `ss`, `curl`) · vim · Git: ветвление, merge vs rebase, конфликты, `stash`, `cherry-pick`, теги · GitHub Actions CI/CD |
